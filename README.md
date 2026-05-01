@@ -208,5 +208,3 @@ Focus on simplicity, clarity, and performance.
 
 
 
-https://sub.lnsync.com/api/v1/client/subscribe?token=c4d6b0a3d5b6b9a5a49e1ad24e47d18e#FUi5obLP
-
