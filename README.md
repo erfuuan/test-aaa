@@ -206,5 +206,3 @@ Generate:
 DO NOT overcomplicate anything.
 Focus on simplicity, clarity, and performance.
 
-
-vless://67e1c025-a781-4808-a871-6201d9bbe2e6@em.lnsync.ir:2040?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&insecure=0&sni=www.aparat.com&pbk=eno1oL2dIRxZrmW-rQSRP_-hSuLUcmLql2QFUpwqAXs&sid=f8617c80#%2525F0%25259F%252587%2525B9%2525F0%25259F%252587%2525B7%252520Turkey%252520%2525E2%252580%2525A2%252520T2
